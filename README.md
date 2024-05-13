@@ -1,22 +1,16 @@
 # 5a_Create_Socket_for_HTTP_for_webpage_upload_and_download
-### REGISTER NUMBER : 212223240013
-### NAME :ARCHANA T  
+## REGISTER NUMBER : 212223240013
+## NAME :ARCHANA T  
 ## AIM :
 To write a PYTHON program for socket for HTTP for web page upload and download
 ## Algorithm
 
-1.Start the program.
-<BR>
-2.Get the frame size from the user
-<BR>
-3.To create the frame based on the user request.
-<BR>
-4.To send frames to server from the client side.
-<BR>
-5.If your frames reach the server it will send ACK signal to client otherwise it will send NACK signal to client.
-<BR>
-6.Stop the program
-<BR>
+1.Start the program.   
+2.Get the frame size from the user   
+3.To create the frame based on the user request.   
+4.To send frames to server from the client side.  
+5.If your frames reach the server it will send ACK signal to client otherwise it will send NACK signal to client.  
+6.Stop the program  
 ## Program 
 ```
 DEVELOPED BY: ARCHANA T
